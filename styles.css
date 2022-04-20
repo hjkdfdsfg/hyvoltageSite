@@ -45,6 +45,12 @@
   font-size: 2rem;
 }
 
+.img-navbar-logo{
+  height: auto;
+  width: auto;
+  max-height: 72px;
+  max-width: 250px; 
+}
 .fa-gem {
   margin-right: 0.5rem;
 }
